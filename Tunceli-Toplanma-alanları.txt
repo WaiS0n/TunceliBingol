@@ -3,87 +3,103 @@
   "features": [
     {
       "type": "Feature",
+      "id": 2335,
       "geometry": {
         "type": "Point",
         "coordinates": [39.54005503324944, 39.07834000955756]
       },
       "properties": {
+        "OBJECTID": 2335,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
         "acik_adres": "Recep Tayyip Erdoğan Parkı, Atatürk, 62000 Tunceli Merkez/Tunceli"
       }
     },
     {
       "type": "Feature",
+      "id": 2336,
       "geometry": {
         "type": "Point",
         "coordinates": [39.5139629, 39.0852934]
       },
       "properties": {
+        "OBJECTID": 2336,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
         "acik_adres": "Cumhuriyet, Kurusipi Yolu, 62000 Tunceli Merkez/Tunceli"
       }
     },
     {
       "type": "Feature",
+      "id": 2337,
       "geometry": {
         "type": "Point",
         "coordinates": [39.5455448, 39.1043627]
       },
-      "properties": {
+      "properties": {  
+        "OBJECTID": 2337,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
         "acik_adres": "Moğultay, Atıl Uzelgün Cd. No:91, 62000 Tunceli Merkez/Tunceli"
       }
     },
     {
       "type": "Feature",
+      "id": 2338,
       "geometry": {
         "type": "Point",
         "coordinates": [39.5671214, 39.1055282]
       },
-      "properties": {
+      "properties": {  
+        "OBJECTID": 2338,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
         "acik_adres": "İsmet İnönü, Tunceli Erzincan Yolu, 62000 Tunceli Merkez/Tunceli"
       }
     },
     {
       "type": "Feature",
+      "id": 2339,
       "geometry": {
         "type": "Point",
         "coordinates": [39.5041631, 39.040135]
       },
       "properties": {
+        "OBJECTID": 2339,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
         "acik_adres": "Merkez, Aktuluk Mahallesi, Üniversite Yerleşkesi, 62000 Tunceli Merkez/Tunceli"
       }
     },
     {
       "type": "Feature",
+      "id": 2340,
       "geometry": {
         "type": "Point",
         "coordinates": [39.5459752, 39.107863]
       },
       "properties": {
+        "OBJECTID": 2340,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
         "acik_adres": "Moğultay, Cemal Gürsel Cd. No:14, 62000 Tunceli Merkez/Tunceli"
       }
     },
     {
       "type": "Feature",
+      "id": 2341,
       "geometry": {
         "type": "Point",
         "coordinates": [39.53149979529953, 39.07757277169903]
       },
       "properties": {
+        "OBJECTID": 2341,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     },
     {
       "type": "Feature",
+      "id": 2342,
       "geometry": {
         "type": "Point",
         "coordinates": [39.5139629, 39.0852934]
       },
       "properties": {
+        "OBJECTID": 2342,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     }
