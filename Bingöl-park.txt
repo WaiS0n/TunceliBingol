@@ -4,77 +4,85 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [40.48773510793382, 38.907853252698715]
-      },
-      "properties": {
-        "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2342,
+      "id": 2343,
       "geometry": {
         "type": "Point",
         "coordinates": [40.49427461279327, 38.90481882162283]
       },
       "properties": {
+         "OBJECTID": 2343,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     },
     {
       "type": "Feature",
-      "id": 2342,
+      "id": 2344,
       "geometry": {
         "type": "Point",
         "coordinates": [40.50376731598953, 38.90073724809264]
       },
       "properties": {
+        "OBJECTID": 2344,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     },
     {
       "type": "Feature",
-      "id": 2342,
+      "id": 2345,
       "geometry": {
         "type": "Point",
         "coordinates": [40.51480655569922, 38.89647564557645]
       },
       "properties": {
+        "OBJECTID": 2345,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     },
     {
       "type": "Feature",
-      "id": 2342,
+      "id": 2346,
       "geometry": {
         "type": "Point",
         "coordinates": [40.49655886424004, 38.88492769920942]
       },
       "properties": {
+        "OBJECTID": 2346,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     },
     {
       "type": "Feature",
-      "id": 2342,
+      "id": 2347,
       "geometry": {
         "type": "Point",
         "coordinates": [40.500539262268155, 38.88398398304334]
       },
       "properties": {
+        "OBJECTID": 2347,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     },
     {
       "type": "Feature",
-      "id": 2342,
+      "id": 2348,
       "geometry": {
         "type": "Point",
         "coordinates": [40.48167114426856, 38.895677354783444]
       },
       "properties": {
+        "OBJECTID": 2348,
+        "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.48773510793382, 38.907853252698715]
+      },
+      "properties": {
+        "OBJECTID": 2349,
         "KATEGORI": "Acil Durum Toplanma Alanı (Halk)",
       }
     }
