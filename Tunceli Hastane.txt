@@ -1,20 +1,45 @@
 {
-    "acik_adres": "Hamidiye, Cumhuriyet Cd. No:29, 62400 Hozat/Tunceli",
-    "lat": 39.10612005916998,
-    "lon": 39.22135400003242
-}
-{
-    "acik_adres": "Merkez, 62000 Tunceli Merkez/Tunceli",
-    "lat": 39.09232850028838,
-    "lon": 39.53457253771469
-}
-{
-    "acik_adres": "Pulur, Yeşil Yazı Cd., 62900 Ovacık/Tunceli",
-    "lat": 39.35849813404731,
-    "lon": 39.21320154586635
-}
-{
-    "acik_adres": "Merkez, 62000 Tunceli Merkez/Tunceli",
-    "lat": 38.8682098918331,
-    "lon": 39.324963502337525
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.22135400003242, 39.10612005916998]
+      },
+      "properties": {
+        "acik_adres": "Hamidiye, Cumhuriyet Cd. No:29, 62400 Hozat/Tunceli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.53457253771469, 39.09232850028838]
+      },
+      "properties": {
+        "acik_adres": "Merkez, 62000 Tunceli Merkez/Tunceli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.21320154586635, 39.35849813404731]
+      },
+      "properties": {
+        "acik_adres": "Pulur, Yeşil Yazı Cd., 62900 Ovacık/Tunceli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.324963502337525, 38.8682098918331]
+      },
+      "properties": {
+        "acik_adres": "Merkez, 62000 Tunceli Merkez/Tunceli"
+      }
+    }
+  ]
 }
