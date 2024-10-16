@@ -1,0 +1,17 @@
+
+
+{
+    "acik_adres": "İnönü, Kültür Cd., 12000 Merkez/Bingöl",
+    "lat": 38.88551957735985,
+    "lon": 40.50250601737574
+}
+{
+    "acik_adres": "İnönü, Kültür Cd. NO:19/A, 12000 Bingöl Merkez/Bingöl",
+    "lat": 38.884598917498664,
+    "lon": 40.50598057413727
+}
+{
+    "acik_adres": "Saray, Hastane Cd. No:60, 12000 Bingöl Merkez/Bingöl",
+    "lat": 38.89293884762219,
+    "lon": 40.50984263404258
+}
